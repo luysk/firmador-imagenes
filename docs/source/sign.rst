@@ -1,5 +1,5 @@
-sign
-====
+Archivo: sign
+=============
 
 Módulo de operaciones de firma de imágenes.
 
